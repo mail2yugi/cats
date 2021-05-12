@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cats/static/css/main.css",
+    "main.js": "/cats/static/js/main.js",
+    "main.js.map": "/cats/static/js/main.js.map",
+    "index.html": "/cats/index.html",
+    "static/css/main.css.map": "/cats/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "/cats/static/js/main.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
