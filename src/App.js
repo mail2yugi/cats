@@ -11,7 +11,7 @@ const defaultHistory = createBrowserHistory();
 function App({ history = defaultHistory }) {
   return (
     <Router history={history}>
-      <Route exact path="/" component={RandomCat} />
+      <Route exact path="/container-app" component={RandomCat} />
       <Route exact path="/cat/:greeting" component={GreetingCat} />
     </Router>
   );
